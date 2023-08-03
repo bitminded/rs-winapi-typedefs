@@ -1,0 +1,8 @@
+[package]
+name = "winapi-types"
+version = "0.1.0"
+authors = ["Michael Graf"]
+
+[lib]
+name = "winapi_types"
+path = "src/lib.rs"
