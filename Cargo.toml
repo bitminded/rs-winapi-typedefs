@@ -1,8 +1,8 @@
 [package]
-name = "winapi-types"
+name = "winapi-typedefs"
 version = "0.1.0"
 authors = ["Michael Graf"]
 
 [lib]
-name = "winapi_types"
+name = "winapi_typdefs"
 path = "src/lib.rs"
