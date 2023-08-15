@@ -66,6 +66,11 @@ pub struct Instance
     _private: [u8; 0]
 }
 
+pub struct Module
+{
+    _private: [u8; 0]
+}
+
 pub struct Icon
 {
     _private: [u8; 0]
